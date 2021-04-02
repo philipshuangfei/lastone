@@ -1,0 +1,12 @@
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\bin\Debug\LastOne.exe
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\bin\Debug\LastOne.pdb
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\obj\Debug\LastOne.csprojResolveAssemblyReference.cache
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\obj\Debug\LastOne.Form1.resources
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\obj\Debug\LastOne.Properties.Resources.resources
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\obj\Debug\LastOne.csproj.GenerateResource.Cache
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\obj\Debug\LastOne.exe
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\obj\Debug\LastOne.pdb
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\bin\Debug\LastOne.exe.manifest
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\bin\Debug\LastOne.application
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\obj\Debug\LastOne.exe.manifest
+D:\MyJobs\MyDocumentOfWin7\EPoleSoft\EPole.Application\LastOne\obj\Debug\LastOne.application
